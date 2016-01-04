@@ -1,0 +1,28 @@
+name: tya
+favicon: null
+layout_spectrum: 0.8788430669810623
+typography_spectrum: 0.8741973366122693
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.34236634336411953
+  lightness: 0.2145293429493904
+  saturation: 0.08001187047921121
+  rhythmicContrast: 0.9332846743054688
+purpose: []
